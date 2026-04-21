@@ -1,4 +1,3 @@
-package com.Estudo;
 
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
